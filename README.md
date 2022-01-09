@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @most-generic-username
-- 👀 I’m interested in coding and drawing!
-- 🌱 I’m currently learning C++ and Python!
+- 👀 I’m interested in coding and drawing
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on... nothing right now!
 
 <!---
